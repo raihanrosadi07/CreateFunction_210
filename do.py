@@ -13,7 +13,6 @@ def konversi_suhu(nilai, satuan):
 luas_lingkaran = lambda r: math.pi * r ** 2
 
 
-# Contoh pemakaian
 print(konversi_suhu(100, 'C'))  
 print(konversi_suhu(212, 'F'))   
 print(luas_lingkaran(7))          
